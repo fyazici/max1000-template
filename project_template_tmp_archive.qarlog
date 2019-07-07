@@ -1,0 +1,22 @@
+Quartus Prime Archive log --	/home/fatih/dev/max1000/projects/project_template/project_template_tmp_archive.qarlog
+
+Archive:	/home/fatih/dev/max1000/projects/project_template/project_template_tmp_archive.qar
+Date:		Sun Jul  7 19:48:08 2019
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+/home/fatih/dev/max1000/projects/project_template/project_template.qpf
+/home/fatih/dev/max1000/projects/project_template/project_template.qsf
+/home/fatih/dev/max1000/projects/project_template/top.sdc
+/home/fatih/dev/max1000/projects/project_template/top.sv
+/intelFPGA_lite/18.1/quartus/linux64/assignment_defaults.qdf
+	======= Total: 5 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sun Jul  7 19:48:09 2019
+Source archive file:	/home/fatih/dev/max1000/projects/project_template/project_template_tmp_archive.qar
+Archive was extracted into	/home/fatih/dev/max1000/projects/led_dimmer/
+		 - successfully.
