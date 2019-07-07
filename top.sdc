@@ -6,3 +6,8 @@ derive_pll_clocks
 
 #derive clock uncertainty
 derive_clock_uncertainty
+
+#set false path
+set_false_path -from [get_ports {USER_BTN}]
+set_false_path -from * -to [get_ports {LED*}]
+
